@@ -1,0 +1,153 @@
+@media (max-width: 767px) {
+  .container {
+    padding: 20px 16px;
+  }
+
+  .nav-link {
+    padding: 10px 16px;
+    justify-content: flex-start;
+  }
+
+  .nav-link a {
+    font-size: 12px;
+  }
+
+  .nav-icon {
+    font-size: 16px;
+  }
+
+  .nav-avatar-wrapper {
+    display: none;
+  }
+
+  /* About Section */
+  .about-info-item {
+    padding: 10px 16px;
+  }
+
+  .career-goals {
+    justify-items: start;
+  }
+
+  .career-content {
+    font-size: 12px;
+    text-align: start;
+  }
+
+  .personal-info {
+    justify-items: start;
+  }
+
+  .career-content {
+    font-size: 12px;
+  }
+
+  .info-item {
+    font-size: 12px;
+  }
+
+  .social-icon {
+    font-size: 16px;
+  }
+
+  /* Resume Section */
+  .resume-card {
+    padding: 10px;
+  }
+
+  .resume-card-header {
+    margin-bottom: 10px;
+  }
+
+  /* Resume Entries */
+  .resume-item {
+    margin-bottom: 20px;
+  }
+
+  .resume-item h4 {
+    font-size: 16px;
+  }
+
+  .resume-date {
+    font-size: 12px;
+    margin-bottom: 12px;
+  }
+
+  .resume-badge {
+    font-size: 12px;
+  }
+
+  /* Hobby icons */
+  .resume-hobby-icons {
+    gap: 12px;
+  }
+
+  .resume-hobby-icon {
+    font-size: 20px;
+    width: 40px;
+    height: 40px;
+  }
+
+  /* Skills/Languages Bars */
+  .resume-skill-item p {
+    font-size: 14px;
+  }
+
+  .resume-segmented-bar {
+    gap: 4px;
+  }
+
+  /* Certifications Section */
+  .cert-item {
+    flex-direction: column;
+    border-bottom: 1px solid #d6c08d;
+    padding-bottom: 20px;
+  }
+
+  .cert-img-wrapper {
+    width: 100%;
+    margin-right: 0;
+    margin-bottom: 10px;
+  }
+
+  .cert-border-end {
+    border-right: none;
+  }
+
+  .cert-border-bottom {
+    border-bottom: none;
+  }
+  .cert-info h4 {
+    font-size: 14px;
+    margin-bottom: 8px;
+  }
+
+  .cert-info p {
+    font-size: 12px;
+  }
+
+  /* Projects Section */
+  .project-img {
+    height: 200px;
+  }
+
+  .project-meta {
+    font-size: 14px;
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  /* Footer */
+  .social-links-footer {
+    gap: 16px;
+  }
+
+  .social-links-footer a {
+    font-size: 12px;
+  }
+
+  .social-links-footer i {
+    font-size: 16px;
+    margin-right: 8px;
+  }
+}

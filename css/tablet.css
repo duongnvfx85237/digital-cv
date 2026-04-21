@@ -1,0 +1,84 @@
+@media (min-width: 768px) and (max-width: 991px) {
+  /* Navigation */
+  .nav-avatar-wrapper {
+    display: none;
+  }
+
+  .nav-link {
+    padding: 15px 24px;
+  }
+
+  .nav-link a {
+    font-size: 14px;
+  }
+
+  .nav-icon {
+    font-size: 20px;
+  }
+
+  /* About Section */
+  .about-info-item {
+    padding: 20px;
+  }
+
+  .career-content {
+    font-size: 14px;
+  }
+
+  .info-item {
+    font-size: 14px;
+  }
+
+  .social-icons {
+    margin-top: 16px;
+  }
+
+  .social-icon {
+    font-size: 20px;
+  }
+
+  /* Certifications Section */
+  .cert-item {
+    flex-direction: column;
+  }
+
+  .cert-img-wrapper {
+    margin-right: 0;
+    margin-bottom: 10px;
+    width: 100%;
+  }
+
+  /* Projects Section */
+  .project-img {
+    height: 150px;
+  }
+
+  .project-card-content {
+    padding: 10px 0;
+  }
+
+  .project-meta {
+    font-size: 14px;
+    align-items: flex-start;
+  }
+
+  .project-title {
+    font-size: 14px;
+    padding: 0 20px;
+    padding-bottom: 12px;
+  }
+
+  .project-table {
+    font-size: 14px;
+  }
+
+  .project-table td {
+    padding: 12px 8px 12px 0;
+    vertical-align: top;
+  }
+
+  .project-table .col-label {
+    padding-left: 20px;
+    width: 100px;
+  }
+}
